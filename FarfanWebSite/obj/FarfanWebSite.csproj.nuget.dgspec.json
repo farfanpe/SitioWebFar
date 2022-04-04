@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FARFAN1\\Desktop\\Reto Road to Azure Platzi\\Web Apps\\FarfanWebSite\\FarfanWebSite.csproj": {}
+    "C:\\Users\\FARFAN\\Desktop\\Reto azure\\Platzi\\SitioWebFar\\FarfanWebSite\\FarfanWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FARFAN1\\Desktop\\Reto Road to Azure Platzi\\Web Apps\\FarfanWebSite\\FarfanWebSite.csproj": {
+    "C:\\Users\\FARFAN\\Desktop\\Reto azure\\Platzi\\SitioWebFar\\FarfanWebSite\\FarfanWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FARFAN1\\Desktop\\Reto Road to Azure Platzi\\Web Apps\\FarfanWebSite\\FarfanWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\FARFAN\\Desktop\\Reto azure\\Platzi\\SitioWebFar\\FarfanWebSite\\FarfanWebSite.csproj",
         "projectName": "FarfanWebSite",
-        "projectPath": "C:\\Users\\FARFAN1\\Desktop\\Reto Road to Azure Platzi\\Web Apps\\FarfanWebSite\\FarfanWebSite.csproj",
-        "packagesPath": "C:\\Users\\FARFAN1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FARFAN1\\Desktop\\Reto Road to Azure Platzi\\Web Apps\\FarfanWebSite\\obj\\",
+        "projectPath": "C:\\Users\\FARFAN\\Desktop\\Reto azure\\Platzi\\SitioWebFar\\FarfanWebSite\\FarfanWebSite.csproj",
+        "packagesPath": "C:\\Users\\FARFAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FARFAN\\Desktop\\Reto azure\\Platzi\\SitioWebFar\\FarfanWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FARFAN1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FARFAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
