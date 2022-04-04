@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FarfanWebSite/1.0.0": {
+        "runtime": {
+          "FarfanWebSite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FarfanWebSite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
