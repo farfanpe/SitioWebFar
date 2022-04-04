@@ -1,0 +1,8 @@
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.csproj.AssemblyReference.cache
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.AssemblyInfoInputs.cache
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.AssemblyInfo.cs
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.csproj.CoreCompileInputs.cache
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.RazorAssemblyInfo.cache
+C:\Users\FARFAN\Desktop\Reto azure\Platzi\SitioWebFar\obj\Debug\net6.0\SitioWebFar.RazorAssemblyInfo.cs
